@@ -22,4 +22,7 @@ function wp_install_defaults()
     activate_plugin('advanced-custom-fields-pro/acf.php');
     activate_plugin('acf-extended-pro/acf-extended.php');
     activate_plugin('classic-editor/classic-editor.php');
+    activate_plugin('svg-support/svg-support.php');
+    activate_plugin('rocket-lazy-load/rocket-lazy-load.php');
+    activate_plugin('contact-form-7/wp-contact-form-7.php');
 }
